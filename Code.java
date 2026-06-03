@@ -10,7 +10,7 @@ public class Tracker{
     double[] weekly = new double[7];
 
     int i = 0;
-    while(i<weekly.length) { //while loop Begins to get closing price each day
+    while(i<weekly.length) /*while loop Begins to get closing price each day*/ { 
       System.out.println("Enter the closing price for the day" + day);
       closingPrice = input.nextDouble();
       double earnings = closingPrice - buyingPrice;
