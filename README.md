@@ -1,4 +1,4 @@
-# investment-tracker-application
+# investment-tracker-application-journey-1
 Small Investment Tracker Application using the basics of Java
 
 1. The very first step will be to accept the buying prices per share that the user has purchased.
