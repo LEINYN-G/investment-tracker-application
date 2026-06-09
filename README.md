@@ -2,7 +2,9 @@ Let's begun a cute JAVA journey!!
 <img src="Images/java.png" alt="App Screenshot" width="200" height="300">
 
 Why to Learn?
-<img src="Images/features.jpg" alt="App Screenshot" width="500" height="400">
+
+
+<img src="Images/features.webp" alt="App Screenshot" width="500" height="400">
 
 Have a look at a small but very useful project!
 
