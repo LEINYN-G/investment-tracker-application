@@ -1,3 +1,6 @@
+<img src="Images/java.png" alt="App Screenshot" width="500" height="600">
+
+
 # investment-tracker-application-journey-1
 Small Investment Tracker Application using the basics of Java
 
