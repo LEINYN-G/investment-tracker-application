@@ -1,4 +1,6 @@
 Let's begun a cute JAVA journey!!
+
+
 <img src="Images/java.png" alt="App Screenshot" width="200" height="300">
 
 Why to Learn?
