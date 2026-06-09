@@ -1,5 +1,10 @@
-<img src="Images/java.png" alt="App Screenshot" width="500" height="600">
+Let's begun a cute JAVA journey!!
+<img src="Images/java.png" alt="App Screenshot" width="200" height="300">
 
+Why to Learn?
+<img src="Images/features.png" alt="App Screenshot" width="500" height="400">
+
+Have a look at a small but very useful project!
 
 # investment-tracker-application-journey-1
 Small Investment Tracker Application using the basics of Java
